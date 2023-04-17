@@ -1,0 +1,3 @@
+My first time using Git and github
+How am I doing? 
+So far so good.
